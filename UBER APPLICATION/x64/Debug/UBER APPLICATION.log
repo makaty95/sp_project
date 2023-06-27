@@ -1,0 +1,26 @@
+﻿  MyForm.cpp
+D:\Uber+ V1.1\UBER APPLICATION\UBER APPLICATION\MyForm.h(308,10): warning C4930: 'Rider convert_user_to_rider(std::string,std::string,std::string)': prototyped function not called (was a variable definition intended?)
+D:\Uber+ V1.1\UBER APPLICATION\UBER APPLICATION\MyForm.h(7089,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Uber+ V1.1\UBER APPLICATION\UBER APPLICATION\MyForm.h(7260,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Uber+ V1.1\UBER APPLICATION\UBER APPLICATION\MyForm.h(7273,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Uber+ V1.1\UBER APPLICATION\UBER APPLICATION\MyForm.h(7286,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Uber+ V1.1\UBER APPLICATION\UBER APPLICATION\MyForm.h(7291,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Uber+ V1.1\UBER APPLICATION\UBER APPLICATION\MyForm.h(7299,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Uber+ V1.1\UBER APPLICATION\UBER APPLICATION\MyForm.h(7304,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Uber+ V1.1\UBER APPLICATION\UBER APPLICATION\MyForm.h(7313,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Uber+ V1.1\UBER APPLICATION\UBER APPLICATION\MyForm.h(7318,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Uber+ V1.1\UBER APPLICATION\UBER APPLICATION\MyForm.h(7847,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Uber+ V1.1\UBER APPLICATION\UBER APPLICATION\MyForm.h(8003,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Uber+ V1.1\UBER APPLICATION\UBER APPLICATION\MyForm.h(8016,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Uber+ V1.1\UBER APPLICATION\UBER APPLICATION\MyForm.h(8029,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Uber+ V1.1\UBER APPLICATION\UBER APPLICATION\MyForm.h(8034,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Uber+ V1.1\UBER APPLICATION\UBER APPLICATION\MyForm.h(8042,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Uber+ V1.1\UBER APPLICATION\UBER APPLICATION\MyForm.h(8047,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Uber+ V1.1\UBER APPLICATION\UBER APPLICATION\MyForm.h(8056,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Uber+ V1.1\UBER APPLICATION\UBER APPLICATION\MyForm.h(8061,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Uber+ V1.1\UBER APPLICATION\UBER APPLICATION\MyForm.h(9206,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Uber+ V1.1\UBER APPLICATION\UBER APPLICATION\MyForm.cpp(7,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  UBER APPLICATION.vcxproj -> D:\Uber+ V1.1\UBER APPLICATION\x64\Debug\UBER APPLICATION.exe
