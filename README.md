@@ -1,4 +1,4 @@
-![Screenshot 2023-07-03 135624](https://github.com/makaty95/sp_project/assets/81934834/8594e7b4-c9b6-4bcd-9345-d8f11d210cca)# sp_project
+# sp_project
 
 Our team project for the first year c++ sp contest which simmulate Uber application on windows
 
