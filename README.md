@@ -19,6 +19,7 @@ created with c++ language
 
 ![Screenshot 2023-07-03 135650](https://github.com/makaty95/sp_project/assets/81934834/44e2725c-d8fb-48f2-b36f-2e53b0812938)
 ![Screenshot 2023-07-03 135642](https://github.com/makaty95/sp_project/assets/81934834/7e3a7481-9bc1-4d20-b2d8-124bea5efef9)
+## Captain Rating system
 ![Screenshot 2023-07-03 135719](https://github.com/makaty95/sp_project/assets/81934834/8ef0bd7f-f2f7-4b88-a3de-66887dcc3ed8)
 ![Screenshot 2023-07-03 135726](https://github.com/makaty95/sp_project/assets/81934834/0ed840c7-3b4c-47ab-b8a7-fc8c6062bde6)
 ![Screenshot 2023-07-03 135734](https://github.com/makaty95/sp_project/assets/81934834/005abe98-2fac-4510-b1ce-14f5221c38c2)
