@@ -6,14 +6,14 @@ created with c++ language
 
 ![Screenshot 2023-07-03 135503](https://github.com/makaty95/sp_project/assets/81934834/6b0fd8a1-4522-4bf0-87a2-9720a6a5e1ca)
 
-# Registeration system for captain and rider
+## Registeration system for captain and rider
 ![Screenshot 2023-07-03 135517](https://github.com/makaty95/sp_project/assets/81934834/26834a8f-1abf-4cd2-a5cb-25827e988257)
 
 
 ![Screenshot 2023-07-03 135624](https://github.com/makaty95/sp_project/assets/81934834/3b58860e-30c1-4354-bef5-97eb65bb9744)
 
 
-
+## advanced paying system
 ![Screenshot 2023-07-03 135633](https://github.com/makaty95/sp_project/assets/81934834/4a0a4c35-ba3c-4aa0-b0d1-7c4d6fa7faa5)
 
 
