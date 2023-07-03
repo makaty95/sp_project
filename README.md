@@ -2,8 +2,9 @@
 # sp_project
 ## Latest version: https://drive.google.com/file/d/14ZRT8ftYZqw8fXnAskIcGvvrzct4kcYU/view?usp=sharing
 
-Our team project for the first year c++ sp contest which simmulate Uber application on windows
-created with c++ language 
+Our team project for the first year c++ sp contest which simulate Uber application on windows
+
+-- created with c++ language 
 
 ![Screenshot 2023-07-03 135503](https://github.com/makaty95/sp_project/assets/81934834/f6282499-f559-4d05-bafd-0d2ce97b85c5)
 
