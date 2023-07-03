@@ -22,5 +22,4 @@ created with c++ language
 ![Screenshot 2023-07-03 135719](https://github.com/makaty95/sp_project/assets/81934834/8ef0bd7f-f2f7-4b88-a3de-66887dcc3ed8)
 ![Screenshot 2023-07-03 135726](https://github.com/makaty95/sp_project/assets/81934834/0ed840c7-3b4c-47ab-b8a7-fc8c6062bde6)
 ![Screenshot 2023-07-03 135734](https://github.com/makaty95/sp_project/assets/81934834/005abe98-2fac-4510-b1ce-14f5221c38c2)
-![Screenshot 2023-07-03 135719](https://github.com/makaty95/sp_project/assets/81934834/d0b1e07b-3f10-47e8-8b02-dada3a8ea404)
-![Screenshot 2023-07-03 135726](https://github.com/makaty95/sp_project/assets/81934834/5081934b-2058-4653-a489-3ea29a7ec6a6)
+
